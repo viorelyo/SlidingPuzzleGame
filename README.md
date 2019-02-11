@@ -7,7 +7,7 @@ Players can also choose the number of `tiles` in which the image will be divided
 
 </br>
 
-<img src="/screenshots/screenshot1.PNG">
+<img src="/screenshots/screenshot1.PNG" width="300">
 
 
 ## Prerequisites
@@ -18,6 +18,6 @@ Players can also choose the number of `tiles` in which the image will be divided
 ## Demo
 Simple `gameplay`
 
-<img src="/screenshots/gif1.gif">
+<img src="/screenshots/gif1.gif" width="400">
 
 Try to increase the difficulty... 😉
