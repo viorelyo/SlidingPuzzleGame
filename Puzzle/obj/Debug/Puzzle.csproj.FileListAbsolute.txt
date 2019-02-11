@@ -1,0 +1,10 @@
+C:\Users\viorel\source\repos\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\viorel\source\repos\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\viorel\source\repos\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\viorel\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+C:\Users\viorel\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\viorel\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\viorel\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\viorel\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\viorel\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\viorel\source\repos\Puzzle\Puzzle\obj\Debug\Puzzle.StartForm.resources
